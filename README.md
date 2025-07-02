@@ -34,7 +34,7 @@ Tidak ada proses instalasi yang rumit. Cukup ikuti langkah-langkah berikut:
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/nama-anda/laris-foodies-keto-website.git](https://github.com/nama-anda/laris-foodies-keto-website.git)
+    git clone https://github.com/indromhars/Laris-Foodies-Keto
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
