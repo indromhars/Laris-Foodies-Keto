@@ -55,6 +55,3 @@ Anda dapat dengan mudah mengubah konten website ini:
 * **Teks Layanan:** Ubah judul dan deskripsi pada setiap *service card* sesuai kebutuhan Anda.
 * **Link Sosial Media:** Pada bagian "CTA Section", ganti tanda `#` dengan link Tokopedia dan Instagram Anda yang sebenarnya.
 
----
-
-Terima kasih telah mengunjungi repositori ini. Semoga website ini dapat membantu usaha ibu Anda berkembang pesat!
