@@ -38,7 +38,7 @@ Tidak ada proses instalasi yang rumit. Cukup ikuti langkah-langkah berikut:
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
-    cd laris-foodies-keto-website
+    cd Laris-Foodies-Keto
     ```
 3.  **Buka file `index.html`:**
     Klik dua kali pada file `index.html` atau buka melalui browser pilihan Anda. Selesai!
